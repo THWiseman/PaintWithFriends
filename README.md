@@ -1,12 +1,14 @@
 # PaintWithFriends
-# Introduction
-A C++ collaborative painting app with built in networking code, as well as text, audio, and video chat. Created Fall 2021 for Mike Shah's CS5500 Software Engineering Course. Authors are Tom Wiseman, Dennis Ping, Michael Maquera, and Rajwinder Singh. By request of the professor, the source code is not publicly available.
+- A fully featured collaborative painting app writen in C++ that features built in networking, text, audio, and video chat.
 
+- Created Fall 2021 for Mike Shah's CS5500 Software Engineering Course at Northeastern University. By request of the professor, the source code is not publicly available.
+
+- Authors are Tom Wiseman, Dennis Ping, Michael Maquera, and Rajwinder Singh.
 
 ![PaintWithFriends](https://user-images.githubusercontent.com/77803506/148086189-a1544e01-7ba3-41c5-b5a5-b44455650858.JPG)
 
 # Features
-- Full featured, collaborative and synchronous painting app, including color picker, undo/redo and paint tools.
+- Multiple paint tools, undo/redo, color picker, export to PNG, screenshot, auto-reconnect, and more!
 
 ![AnimatedUndo](https://user-images.githubusercontent.com/77803506/148088043-90dd2d85-93f9-452f-9a7f-1e8fc6e411b1.gif)
 
