@@ -25,7 +25,8 @@
 - Windows/MacOS Compatible
 
 # UML
-![Group 3 CS5500 ](https://user-images.githubusercontent.com/77803506/148146654-c97bb6ff-a154-4111-ae1b-5ff5dcbb8226.png)
+
+![Group 3 CS5500  (2)](https://user-images.githubusercontent.com/77803506/148146815-35b56e75-7276-4371-aad0-724bca0bc39f.png)
 
 
 # External Libraries
